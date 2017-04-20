@@ -1,0 +1,7 @@
+{
+	"PluginFileName": "ManualCounter.Plugin",
+	"Version": "1.0.0.1",
+	"DownloadLink": "http://lgzh1215.github.io/Files/ManualCounter/ManualCounter.Plugin",
+	"DownloadSite": "http://lgzh1215.github.io/Files/ManualCounter/ManualCounter.zip",
+	"Changelog": "手动计数器可以自定义增量"
+}
